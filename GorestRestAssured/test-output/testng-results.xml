@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-05T16:46:26 EDT" name="Default suite" finished-at="2023-06-05T16:46:31 EDT" duration-ms="5404">
+    <groups>
+    </groups>
+    <test started-at="2023-06-05T16:46:26 EDT" name="Default test" finished-at="2023-06-05T16:46:31 EDT" duration-ms="5404">
+      <class name="capstoneProject.CapstoneProject">
+        <test-method is-config="true" signature="createPayLoad()[pri:0, instance:capstoneProject.CapstoneProject@7dc0f706]" started-at="2023-06-05T16:46:26 EDT" name="createPayLoad" finished-at="2023-06-05T16:46:26 EDT" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPayLoad -->
+        <test-method signature="createResource()[pri:0, instance:capstoneProject.CapstoneProject@7dc0f706]" started-at="2023-06-05T16:46:26 EDT" name="createResource" finished-at="2023-06-05T16:46:29 EDT" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResource -->
+        <test-method signature="verifyResource()[pri:1, instance:capstoneProject.CapstoneProject@7dc0f706]" started-at="2023-06-05T16:46:29 EDT" name="verifyResource" finished-at="2023-06-05T16:46:29 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResource -->
+        <test-method signature="updateResource()[pri:2, instance:capstoneProject.CapstoneProject@7dc0f706]" started-at="2023-06-05T16:46:29 EDT" name="updateResource" finished-at="2023-06-05T16:46:30 EDT" duration-ms="1020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateResource -->
+        <test-method signature="deleteResource()[pri:3, instance:capstoneProject.CapstoneProject@7dc0f706]" started-at="2023-06-05T16:46:30 EDT" name="deleteResource" finished-at="2023-06-05T16:46:31 EDT" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteResource -->
+      </class> <!-- capstoneProject.CapstoneProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
